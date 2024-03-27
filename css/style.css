@@ -418,7 +418,7 @@
 }
 
 .pricing-plan--complete::after {
-  content: "Best value";
+  content: "Melhor opção";
   position: absolute;
   top: 6%;
   right: -18%;
